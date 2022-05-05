@@ -80,5 +80,5 @@ DerivedDataCache/*
 
 Content/*
 !Content/_Game
-!Content/Assets
-!Content/.uasset
+!Content/_Assets
+!Content/*.uasset
